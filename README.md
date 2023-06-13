@@ -1,3 +1,8 @@
+##Sobre mim
+
+
+Olá! Me chamo Marcos Vinicius Angeli Costa, sou um desenvolvedor fullstack apaixonado pelo que faço. Tenho sólidos conhecimentos na área e meu objetivo é sempre entregar resultados de alta qualidade. Valorizo bastante o trabalho em equipe e estou sempre disposto a colaborar. Fique à vontade para explorar, modificar, aprimorar ou utilizar os projetos que desenvolvi! Espero que eles sejam úteis em seus estudos!
+
 ## Atualmente trabalhando e estudando:
 
 <div>
