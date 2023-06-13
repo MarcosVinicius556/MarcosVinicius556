@@ -19,8 +19,7 @@ Olá! Me chamo Marcos Vinicius Angeli Costa, sou um desenvolvedor fullstack apai
   <a href="https://instagram.com/o_l3on" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "marcosvinicios4132@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-angeli-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-marcos-vinicius.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Portf%C3%B3lio-Visite%20Aqui-blue?style=for-the-badge&logo=appveyor" target="_blank"></a>
+  <a href="https://portfolio-marcos-vinicius.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portf%C3%B3lio-Visite%20Aqui-blue?style=for-the-badge&logo=appveyor" target="_blank"></a>
 </div>
 <br>
 <br>
