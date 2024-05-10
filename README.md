@@ -21,6 +21,8 @@ Olá! Me chamo Marcos Vinicius Angeli Costa, sou um desenvolvedor fullstack apai
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
 </div>
 
 ## Meus Contatos
